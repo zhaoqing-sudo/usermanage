@@ -1,0 +1,13 @@
+table {
+    width: 1000px;
+    margin: 10px auto;
+    text-align: center;
+}
+table tr{
+    border-bottom: 1px solid #ccc;
+    line-height: 40px;
+}
+#delete{
+    height: 30px;
+    line-height: 30px;
+}
